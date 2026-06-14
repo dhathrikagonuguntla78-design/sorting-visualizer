@@ -112,12 +112,3 @@ Feel free to fork the repository and submit pull requests. For any issues or fea
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For questions or feedback, please contact [sachin_2021bcse084@nitsri.ac.in](mailto:sachin_2021bcse084@nitsri.ac.in)
-
-Sorting Algorithms Visualiser is a project aimed at making sorting algorithms more comprehensible through visual representation for educational puposes. Happy sorting!
-
-
-
-
